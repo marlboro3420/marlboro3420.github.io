@@ -189,12 +189,11 @@ body {
 }
 .footer {
   padding: 15px 0;
-  font-size: 14px;
+  font-size: 7px;
   line-height: 1.5;
 }
 .footer a {
   text-decoration: underline;
-  color: #000000;
   padding: 0 4px;
   white-space: nowrap;
 }
