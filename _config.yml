@@ -1,8 +1,8 @@
 encoding: utf-8
 # SEO相关信息
 title: CRLF Blog
-description: CRLF 的个人博客
-keywords: CRLF,Blog,Java,Html,JavaScript
+description: CRLF's Blog
+keywords: CRLF,Blog
 author: CRLF
 footerText: ' '
 
@@ -23,11 +23,11 @@ tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
 menu:
-  - title: 首页
+  - title: Home
     url: /
-  - title: 归类
+  - title: Categories
     url: /pages/categories.html
-  - title: 搜索
+  - title: Search
     url: /pages/search.html
 #  - title: 友链
 #    url: /pages/links.html
